@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "lausycandys": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lausycandys"
+    }
+  },
+  "defaultProject": "lausycandys",
+  "cli": {
+    "analytics": "186a0cfc-6015-494e-b936-747c54a22a4d"
+  }
 }

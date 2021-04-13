@@ -1,0 +1,62 @@
+.masthead {
+    height: 100vh;
+
+    min-height: 600px;
+    background-image: url('../../assets/imagenes/ee.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+
+
+ .carta1:hover{
+ transform: scale(1.05);
+
+ }
+ .carta1{
+     margin-left: 18%;
+     margin-top: 5%;
+     float: left;
+   
+
+     
+
+ }
+ .txt{
+
+
+   
+    margin-left: 35%;
+ }
+ #btn1{
+
+    background: #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin-right: 10px;
+
+width: 200px;
+height: auto;
+margin-top: 5%;}
+#btn1:hover {
+    background: #FF5F6D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    transform: scale(1.2);
+
+    
+  
+  
+  }
+  .body {
+    height: 100vh;
+    width: auto;
+
+    min-height: 600px;
+    background-image: url('../../assets/imagenes/ee.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }

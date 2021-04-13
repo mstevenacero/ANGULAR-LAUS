@@ -1,0 +1,66 @@
+.masthead {
+    height: 100vh;
+    width: auto;
+
+    min-height: 600px;
+    background-image: url('../../assets/imagenes/pantalla12.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+  
+  #btn1{
+
+    background: #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin-right: 10px;
+width: 200px;
+margin-top: 5%;
+height: auto;
+
+  }
+  #btn1:hover {
+    background: #FF5F6D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    transform: scale(1.2);
+
+    
+  
+  
+  }
+
+  #btn2{
+  
+
+    background: #a8ff78;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+width: 200px;
+margin-top: 5%;
+height: auto;
+ 
+  }
+  #btn2:hover {
+    background: #007991;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transform: scale(1.2);
+  
+  
+  
+  }
+  .botones{
+
+
+    position: absolute;
+    top: 50%; left: 60%;
+    
+  
+  
+  
+  
+  
+  }
